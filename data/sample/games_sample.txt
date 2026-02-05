@@ -1,0 +1,101 @@
+game_id,utc_date,utc_time,time_control,termination,eco,opening_name,num_moves,white_elo,black_elo,elo_diff,result,winner
+WBUBfWck,2025.12.01,00:00:14,600+0,Normal,A00,Ware Opening,17,726,787,-61,0-1,black
+nXafeSF8,2025.12.01,00:00:14,600+0,Normal,D00,Queen's Pawn Game,57,816,793,23,1-0,white
+JdJxgg7t,2025.12.01,00:00:14,600+0,Normal,C30,King's Gambit,49,1539,1539,0,1-0,white
+MQYARpxn,2025.12.01,00:00:14,600+0,Normal,C42,Petrov's Defense: Damiano Variation,117,683,560,123,1-0,white
+sUNemc7p,2025.12.01,00:00:14,600+0,Normal,D02,"Queen's Pawn Game: London System, with e6",97,1762,1738,24,1-0,white
+6Nybc75z,2025.12.01,00:00:14,600+0,Normal,A40,Queen's Pawn Game: Modern Defense,94,1166,1136,30,1-0,white
+fVsEgDtA,2025.12.01,00:00:14,600+0,Normal,C41,Philidor Defense,36,1739,1760,-21,0-1,black
+EDxIejfP,2025.12.01,00:00:14,600+0,Normal,A40,Queen's Pawn Game: Modern Defense,86,1632,1616,16,0-1,black
+LJaBQQ14,2025.12.01,00:00:14,600+0,Normal,B10,Caro-Kann Defense,37,1981,1971,10,1-0,white
+4uApMpnX,2025.12.01,00:00:14,600+0,Normal,D32,Queen's Gambit Declined: Tarrasch Defense,51,1367,1313,54,1-0,white
+XUQUJZT1,2025.12.01,00:00:14,600+0,Normal,B00,St. George Defense,37,1505,1595,-90,1-0,white
+X4fssXJm,2025.12.01,00:00:20,900+0,Normal,B00,Pirc Defense,52,1534,1404,130,1-0,white
+SVd8eyTK,2025.12.01,00:00:21,600+0,Time forfeit,B03,"Alekhine Defense: Four Pawns Attack, Trifunovic Variation",88,2046,2101,-55,0-1,black
+ytEJ4VkM,2025.12.01,00:00:21,600+0,Normal,C43,Petrov's Defense: Modern Attack,52,1468,1477,-9,0-1,black
+5BwKSXYF,2025.12.01,00:00:21,600+0,Normal,B10,Caro-Kann Defense: Hillbilly Attack,45,1339,1326,13,1-0,white
+d656qLoi,2025.12.01,00:00:21,600+0,Normal,A03,Bird Opening: Dutch Variation,37,1261,1250,11,1-0,white
+8L9tuF2d,2025.12.01,00:00:21,600+0,Normal,A05,Zukertort Opening: Quiet System,97,1661,1700,-39,1/2-1/2,draw
+llXK6W1W,2025.12.01,00:00:21,600+0,Time forfeit,E70,King's Indian Defense: Normal Variation,10,1627,1581,46,0-1,black
+RzidUOr2,2025.12.01,00:00:21,600+0,Time forfeit,C00,Rat Defense: Small Center Defense,148,1484,1564,-80,0-1,black
+kOFYBvbJ,2025.12.01,00:00:21,600+0,Normal,B12,"Caro-Kann Defense: Advance Variation, Short Variation",24,1026,1049,-23,0-1,black
+S94rYInJ,2025.12.01,00:00:21,600+0,Normal,B00,Pirc Defense,39,967,960,7,1-0,white
+a3VHl4vP,2025.12.01,00:00:21,600+0,Normal,A00,Saragossa Opening,74,1656,1642,14,0-1,black
+3nZBcFcx,2025.12.01,00:00:21,600+0,Normal,C50,"Italian Game: Giuoco Pianissimo, Italian Four Knights Variation",64,1934,1931,3,0-1,black
+ul4Au6Vh,2025.12.01,00:00:21,600+0,Normal,D00,Queen's Pawn Game: Accelerated London System,58,1363,1364,-1,0-1,black
+yeiqZcap,2025.12.01,00:00:21,900+10,Normal,C47,Four Knights Game: Italian Variation,65,1341,1319,22,1-0,white
+cjiljQJ6,2025.12.01,00:00:24,600+0,Time forfeit,C46,Three Knights Opening,119,1399,1411,-12,1/2-1/2,draw
+faQ0qD8V,2025.12.01,00:00:24,600+0,Normal,C47,Four Knights Game: Italian Variation,79,1470,1442,28,1-0,white
+po0YjRcC,2025.12.01,00:00:24,600+0,Normal,A45,Indian Defense,91,1392,1375,17,1/2-1/2,draw
+YoQLiBTN,2025.12.01,00:00:24,600+0,Normal,A00,Saragossa Opening,145,1371,1326,45,1-0,white
+0vvVycyX,2025.12.01,00:00:24,600+0,Normal,C50,Italian Game: Paris Defense,99,1295,1308,-13,1-0,white
+Ghiw1sHc,2025.12.01,00:00:24,600+0,Normal,D07,Queen's Gambit Declined: Chigorin Defense,40,1254,1239,15,0-1,black
+k4z0pHRC,2025.12.01,00:00:24,600+0,Normal,C40,King's Pawn Game: Busch-Gass Gambit,109,1191,1202,-11,1-0,white
+9El4FzPU,2025.12.01,00:00:24,600+0,Normal,D02,Queen's Pawn Game: Symmetrical Variation,37,1156,1121,35,1-0,white
+5tmEwgoF,2025.12.01,00:00:17,240+9,Normal,C50,Four Knights Game: Italian Variation,52,1776,1886,-110,0-1,black
+JdaZ2PXv,2025.12.01,00:00:39,600+0,Normal,A40,Englund Gambit: Hartlaub-Charlick Gambit,132,1530,1515,15,1/2-1/2,draw
+pdlJtWXn,2025.12.01,00:00:39,600+0,Normal,A00,Polish Opening: Outflank Variation,123,2120,2081,39,1-0,white
+KUhNmo4h,2025.12.01,00:00:39,600+0,Normal,A46,Indian Defense: Spielmann-Indian,34,2066,2076,-10,0-1,black
+kbDjhp9o,2025.12.01,00:00:39,600+0,Time forfeit,B30,Sicilian Defense: Old Sicilian,164,2030,2015,15,0-1,black
+C3fZ4DwA,2025.12.01,00:00:39,600+0,Normal,D85,"Grünfeld Defense: Exchange Variation, Modern Exchange Variation",20,1985,2010,-25,0-1,black
+6zNYgSy9,2025.12.01,00:00:39,600+0,Normal,B07,King's Pawn Game: Maróczy Defense,94,1869,1977,-108,1/2-1/2,draw
+wZOmItpp,2025.12.01,00:00:39,600+0,Normal,B00,Rat Defense: Antal Defense,147,1809,1849,-40,1-0,white
+8naKLM66,2025.12.01,00:00:39,600+0,Normal,D02,Queen's Pawn Game: Zukertort Variation,22,1807,1788,19,0-1,black
+idkSjUo9,2025.12.01,00:00:39,600+0,Normal,D01,Rapport-Jobava System,36,1760,1778,-18,0-1,black
+V7Mc6G29,2025.12.01,00:00:39,600+0,Normal,B20,Sicilian Defense,19,1722,1725,-3,1-0,white
+jTHSEMSf,2025.12.01,00:00:39,600+0,Normal,C21,Danish Gambit Accepted: Classical Defense,56,1682,1695,-13,0-1,black
+CHV4oJu2,2025.12.01,00:00:39,600+0,Normal,B30,Sicilian Defense: Nyezhmetdinov-Rossolimo Attack,85,1618,1615,3,0-1,black
+njjangMs,2025.12.01,00:00:39,600+0,Time forfeit,B32,Sicilian Defense: Accelerated Dragon,111,1587,1581,6,1-0,white
+PbnhdYK9,2025.12.01,00:00:39,600+0,Normal,A00,Van't Kruijs Opening,130,1541,1561,-20,0-1,black
+pOi4ZIQK,2025.12.01,00:00:39,600+0,Abandoned,?,?,0,1531,1143,388,0-1,black
+XpXCZhuR,2025.12.01,00:00:08,480+0,Normal,C02,French Defense: Advance Variation,93,1139,1206,-67,1-0,white
+Lia5RIQp,2025.12.01,00:00:20,600+5,Normal,B20,Sicilian Defense: Bowdler Attack,71,998,1145,-147,1-0,white
+hEo0DVD3,2025.12.01,00:00:20,600+5,Time forfeit,C66,"Ruy Lopez: Berlin Defense, Improved Steinitz Defense",62,1595,1526,69,0-1,black
+D0QgwH18,2025.12.01,00:00:20,600+5,Normal,E11,Bogo-Indian Defense: Grünfeld Variation,105,2092,2083,9,1-0,white
+7SpPyDg6,2025.12.01,00:00:20,600+5,Normal,C50,Italian Game: Anti-Fried Liver Defense,46,1279,1276,3,0-1,black
+3Qz5ExfS,2025.12.01,00:00:20,600+5,Normal,E61,King's Indian Defense,53,1506,1549,-43,1-0,white
+BQT3TYdP,2025.12.01,00:00:20,600+5,Time forfeit,C50,Four Knights Game: Italian Variation,85,1465,1426,39,1-0,white
+ozi3chp8,2025.12.01,00:00:20,600+5,Normal,D38,Queen's Gambit Declined: Ragozin Defense,146,1923,2054,-131,1/2-1/2,draw
+Pr11nCJF,2025.12.01,00:00:20,600+5,Normal,D00,Queen's Pawn Game,75,1671,1687,-16,1-0,white
+5ry2JZaa,2025.12.01,00:00:20,600+5,Normal,C01,French Defense: Exchange Variation,27,1812,1857,-45,1-0,white
+rotqmRk5,2025.12.01,00:00:20,600+5,Normal,C20,King's Pawn Game: Leonardis Variation,34,1691,1722,-31,0-1,black
+FUdlx8Ke,2025.12.01,00:00:24,420+2,Normal,D00,Queen's Pawn Game,89,1548,1099,449,1-0,white
+oBGPQojT,2025.12.01,00:00:24,600+0,Normal,A00,Van't Kruijs Opening,90,1073,1431,-358,0-1,black
+ZGFey41g,2025.12.01,00:00:24,600+0,Normal,C23,Bishop's Opening,16,1060,1151,-91,0-1,black
+Lq3bGw6K,2025.12.01,00:00:24,600+0,Normal,A45,Queen's Pawn Game: Chigorin Variation,128,2030,2038,-8,0-1,black
+vXpldGPm,2025.12.01,00:00:03,600+5,Normal,B01,Scandinavian Defense: Main Line,46,694,754,-60,0-1,black
+WgHaQ8dV,2025.12.01,00:00:11,360+3,Normal,D02,Queen's Pawn Game: Symmetrical Variation,35,1601,1586,15,1-0,white
+TipYiDj7,2025.12.01,00:00:11,720+19,Normal,D00,Queen's Pawn Game,80,1423,1451,-28,0-1,black
+gPaQIhZx,2025.12.01,00:00:26,600+5,Normal,A48,London System,116,948,1220,-272,0-1,black
+eYc7Z8PY,2025.12.01,00:00:26,600+0,Normal,C47,Four Knights Game: Italian Variation,34,1777,1773,4,0-1,black
+VtmDLzSK,2025.12.01,00:00:26,600+0,Normal,A45,Indian Defense,56,1624,1645,-21,0-1,black
+FLuSPX2p,2025.12.01,00:00:26,600+0,Normal,C54,"Italian Game: Classical Variation, Giuoco Pianissimo, with d6",79,1561,1612,-51,1-0,white
+Q6ijK4ZW,2025.12.01,00:00:26,600+0,Normal,C20,King's Pawn Game: Napoleon Attack,90,1133,1063,70,0-1,black
+oiQcuIfG,2025.12.01,00:00:26,600+0,Normal,B00,Pirc Defense,80,1689,1689,0,0-1,black
+dPsexrXi,2025.12.01,00:00:26,600+0,Normal,B00,Owen Defense,35,1725,1660,65,1-0,white
+6wpOlgI6,2025.12.01,00:00:26,600+0,Normal,B00,Pirc Defense,65,1273,1237,36,1-0,white
+Lqj2b5fX,2025.12.01,00:00:26,600+0,Normal,D00,Queen's Pawn Game,131,1500,1479,21,1-0,white
+qgZXtLCU,2025.12.01,00:00:26,600+0,Time forfeit,C57,"Italian Game: Two Knights Defense, Traxler Counterattack, Knight Sacrifice Line",9,1273,1368,-95,1-0,white
+DMgu9mT2,2025.12.01,00:00:26,600+0,Normal,B20,Sicilian Defense: Snyder Variation,33,1860,1800,60,1-0,white
+1vRKA4k6,2025.12.01,00:00:26,600+0,Normal,A45,Queen's Pawn Game: Chigorin Variation,60,1909,2004,-95,0-1,black
+k1yoOlml,2025.12.01,00:00:26,600+0,Normal,C42,Petrov's Defense: Three Knights Game,63,1713,1781,-68,1-0,white
+TthYfBeE,2025.12.01,00:00:40,600+0,Time forfeit,C46,Three Knights Opening,114,1722,1706,16,0-1,black
+tQPCWTSo,2025.12.01,00:00:40,600+0,Normal,D02,Queen's Pawn Game: Zukertort Variation,152,1407,1434,-27,0-1,black
+tfINzFlI,2025.12.01,00:00:40,600+0,Normal,D00,Blackmar-Diemer Gambit: Netherlands Variation,52,1105,1109,-4,0-1,black
+s2y0WhZr,2025.12.01,00:00:41,360+3,Normal,C23,Bishop's Opening,48,1447,1361,86,0-1,black
+egZz0NUz,2025.12.01,00:00:43,600+0,Normal,A00,Grob Opening,59,1321,1320,1,1-0,white
+ifUMWPWT,2025.12.01,00:00:00,600+5,Normal,A05,Zukertort Opening,41,1492,1872,-380,0-1,black
+uypue2DP,2025.12.01,00:00:00,600+5,Normal,D00,Queen's Pawn Game: Accelerated London System,112,1936,1642,294,1/2-1/2,draw
+Ca85HIk8,2025.12.01,00:00:00,900+10,Normal,C21,Danish Gambit Declined: Sörensen Defense,63,1428,1362,66,1-0,white
+TLgeNfPX,2025.12.01,00:00:00,900+10,Normal,C30,King's Gambit Declined: Queen's Knight Defense,53,1364,1583,-219,1-0,white
+McZDIIin,2025.12.01,00:00:01,600+2,Normal,E91,King's Indian Defense: Orthodox Variation,147,1969,1583,386,1-0,white
+Rjp9KH9w,2025.12.01,00:00:01,600+2,Normal,A46,Indian Defense: London System,58,1701,2208,-507,0-1,black
+zNGHnJA8,2025.12.01,00:00:02,1020+0,Normal,C47,Four Knights Game: Scotch Variation,32,1251,1347,-96,0-1,black
+4N85rMZt,2025.12.01,00:00:02,600+5,Normal,C50,Italian Game: Giuoco Piano,36,1313,1342,-29,0-1,black
+q3xgBlNA,2025.12.01,00:00:02,600+5,Normal,C23,Bishop's Opening: Boi Variation,65,1404,1432,-28,1-0,white
+3KH5BQ8v,2025.12.01,00:00:02,600+5,Abandoned,?,?,0,1259,1299,-40,0-1,black
+aba21KEa,2025.12.01,00:00:02,600+5,Normal,B01,Scandinavian Defense: Valencian Variation,40,1220,1246,-26,0-1,black
+GWgbGzmo,2025.12.01,00:00:02,600+5,Normal,C50,Italian Game: Giuoco Piano,53,1213,1217,-4,1-0,white
+z5nPPT1V,2025.12.01,00:00:02,600+5,Normal,A53,"Old Indian Defense: Czech Variation, with Nc3",65,1172,1171,1,1/2-1/2,draw
+T5gGtRiW,2025.12.01,00:00:02,600+5,Normal,C50,Four Knights Game: Italian Variation,61,1139,1142,-3,1-0,white
+As3mlFDQ,2025.12.01,00:00:02,600+5,Normal,D06,Queen's Gambit Declined: Marshall Defense,112,1055,1122,-67,0-1,black

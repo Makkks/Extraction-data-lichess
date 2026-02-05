@@ -14,7 +14,7 @@ basée sur des outils open source.
 - Stockage CSV
 
 ## Structure du projet
-- extraction/ : notebook d’extraction des données
+- notebooks/ : notebook d’extraction des données
 - data/ : sample des données traités
 - docs/ : documentation et tutoriels
 
