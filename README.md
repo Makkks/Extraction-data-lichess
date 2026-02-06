@@ -2,8 +2,7 @@
 
 ## Présentation du projet
 Ce projet présente une méthode d’extraction de données
-en streaming sequentiel et
-
+en streaming sequentiel (torrent).
 L’objectif est de proposer une approche reproductible
 basée sur des outils open source.
 
