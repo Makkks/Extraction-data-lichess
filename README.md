@@ -2,7 +2,7 @@
 
 ## Présentation du projet
 Ce projet présente une méthode d’extraction de données
-en streaming sequentiel (torrent).
+en streaming sequentiel (torrent) sur les bases de données open source de Lichess.org.
 L’objectif est de proposer une approche reproductible
 basée sur des outils open source.
 
